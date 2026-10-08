@@ -56,6 +56,7 @@ fun BMIScreen() {
         Text(text = "BMI Calculator :D" ,
             fontSize = 30.sp ,
             fontWeight = FontWeight.Bold,
+            letterSpacing = 2.sp,
             fontStyle = Italic
             )
 
