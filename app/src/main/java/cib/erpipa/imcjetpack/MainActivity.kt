@@ -53,7 +53,7 @@ fun BMIScreen() {
 
     Column() {
 
-        Text(text = "BMI Calculator :D" ,
+        Text(text = "BMI Calculator - Master" ,
             fontSize = 30.sp ,
             fontWeight = FontWeight.Bold,
             fontStyle = Italic
