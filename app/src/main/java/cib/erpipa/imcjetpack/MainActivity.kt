@@ -60,7 +60,7 @@ fun BMIScreen(modifier: Modifier = Modifier) {
 
         // Neon Title
         Text(
-            text = "⚡ BMI CALCULATOR ⚡",
+            text = "⚡ BMI CALCULATOR - Stylo ⚡",
             fontSize = 26.sp,
             fontWeight = FontWeight.Bold,
             fontStyle = Italic,
